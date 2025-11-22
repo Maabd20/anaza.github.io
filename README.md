@@ -43,7 +43,7 @@
 ![diabetes predicting](https://github.com/user-attachments/assets/2bb2dcfc-f583-4d89-8026-adad065b65f7)
 * Brief description of the project.
 * **Tech Stack:** Python, Pandas, Scikit-learn
-* **GitHub:** [[Link to Repo](https://github.com/Maabd20/Maabd20.github.io/blob/main/Diabetes%20Prediction.ipynb)](#)
+* **GitHub:** [Diabetes Prediction Model Data Work](https://github.com/Maabd20/Maabd20.github.io/blob/main/Diabetes%20Prediction.ipynb)
 
 ---
 
