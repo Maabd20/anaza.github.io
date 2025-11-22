@@ -1,8 +1,5 @@
 # Hi, I'm Abdulmalik 👋
 
-Below is a **GitHub‑safe two‑column layout** (no CSS, no styles blocked by GitHub).
-It works on desktop as two clear columns, and on mobile it stacks naturally — this is the *only* reliable two‑column method GitHub supports.
-
 ---
 
 <table>
@@ -42,8 +39,8 @@ It works on desktop as two clear columns, and on mobile it stacks naturally — 
 
 ## 🚀 Projects
 
-### 🔹 **Project 1: Title Here**
-
+### 🔹 **Diabetes Prediction Model**
+![diabetes predicting](https://github.com/user-attachments/assets/2bb2dcfc-f583-4d89-8026-adad065b65f7)
 * Brief description of the project.
 * **Tech Stack:** Python, Pandas, Scikit-learn
 * **GitHub:** [Link to Repo](#)
