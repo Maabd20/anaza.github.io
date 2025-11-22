@@ -13,7 +13,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=1A8CF7&width=220&lines=Welcome!;Medical+Lab+Scientist;Data+Science+Enthusiast" />
 </p>
 
-**Bio**
+<img width="426" height="421" alt="passconvert2" src="https://github.com/user-attachments/assets/ac2860d0-5e78-4fae-9c3c-9fdd65790bdc" />
+
+
 - 🔬 Medical Laboratory Scientist  
 - 🧪 Research & Biotechnology  
 - 💻 Data Science & ML Learner  
