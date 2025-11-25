@@ -21,13 +21,10 @@
 - 💻 Data Science & ML   
 - 🌍 Nigeria  
 
-**Contact**<br>
+**Contact**
 - **Email:** [maabdrushd@gmail.com](mailto:maabdrushd@gmail.com)
-- <br>
 - **LinkedIn:** https://linkedin.com/in/yourprofile
-- <br>
 - **Portfolio:** https://Maabd20.github.io  
-<br>
 </td>
 
 <!-- RIGHT COLUMN (MAIN CONTENT) -->
@@ -38,36 +35,35 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=1A8CF7&width=600&lines=Welcome+to+my+GitHub!;Building+ML+and+Data+Projects;Biotech+%7C+Research+%7C+Tech" />
 </p>
 
-**🚀 Projects**
-<br>
+**Projects**
+
 **🔹 Diabetes Prediction Model**  
 **[diabetes predicting](https://github.com/user-attachments/assets/2bb2dcfc-f583-4d89-8026-adad065b65f7)** 
-<br>
 - Brief description of the project.
-- <br>  
+  
 - **Tech Stack:** Python, Pandas, Scikit-learn
-  <br>
+  
 - **GitHub:** [GitHub Repository](https://github.com/yourusername/project2)
 
 <hr>
 
 **🔹 Project 2: Title Here** 
-<br>
+
 - Brief description of the project.
-  <br>  
+  
 - **Tech Stack:** Streamlit, Machine Learning
-  <br>
+
 - **GitHub:** [GitHub Repository](https://github.com/yourusername/project2)
 
 
 <hr>
 
 **🔹 Project 3: Title Here**  
-<br>
+
 - Brief description of the project.
-  <br>  
+    
 - **Tech Stack:** SQL, Power BI
-  <br>
+  
 - **GitHub:** [GitHub Repository](https://github.com/yourusername/project2)
 </td>
 </tr>
