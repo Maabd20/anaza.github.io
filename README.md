@@ -47,7 +47,7 @@
 - <br>  
 - **Tech Stack:** Python, Pandas, Scikit-learn
   <br>
-- **GitHub:** https://github.com/Maabd20/Maabd20.github.io/blob/main/Diabetes%20Prediction.ipynb  
+- **GitHub:** [GitHub Repository](https://github.com/yourusername/project2)
 
 <hr>
 
@@ -57,7 +57,8 @@
   <br>  
 - **Tech Stack:** Streamlit, Machine Learning
   <br>
-- **GitHub:** https://github.com/yourusername/project2  
+- **GitHub:** [GitHub Repository](https://github.com/yourusername/project2)
+
 
 <hr>
 
@@ -67,7 +68,7 @@
   <br>  
 - **Tech Stack:** SQL, Power BI
   <br>
-- **GitHub:** https://github.com/yourusername/project3  
+- **GitHub:** [GitHub Repository](https://github.com/yourusername/project2)
 </td>
 </tr>
 </table>
