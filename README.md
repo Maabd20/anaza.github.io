@@ -22,7 +22,7 @@
 - 🌍 Nigeria  
 
 **Contact**
-- **Email:** [maabdrushd@gmail.com](mailto:maabdrushd@gmail.com)
+- **Email:** [maabdrushd@gmail.com](<mailto:maabdrushd@gmail.com>)
 - **LinkedIn:** https://linkedin.com/in/yourprofile
 - **Portfolio:** https://Maabd20.github.io  
 </td>
@@ -38,12 +38,12 @@
 **Projects**
 
 **🔹 Diabetes Prediction Model**  
-**[diabetes predicting](https://github.com/user-attachments/assets/2bb2dcfc-f583-4d89-8026-adad065b65f7)** 
+**[diabetes predicting](<https://github.com/user-attachments/assets/2bb2dcfc-f583-4d89-8026-adad065b65f7>)** 
 - Brief description of the project.
   
 - **Tech Stack:** Python, Pandas, Scikit-learn
   
-- **GitHub:** [GitHub Repository](https://github.com/yourusername/project2)
+- **GitHub:** [GitHub Repository](<https://github.com/yourusername/project2>)
 
 <hr>
 
@@ -53,7 +53,7 @@
   
 - **Tech Stack:** Streamlit, Machine Learning
 
-- **GitHub:** [GitHub Repository](https://github.com/yourusername/project2)
+- **GitHub:** [GitHub Repository](<https://github.com/yourusername/project2>)
 
 
 <hr>
@@ -64,7 +64,7 @@
     
 - **Tech Stack:** SQL, Power BI
   
-- **GitHub:** [GitHub Repository](https://github.com/yourusername/project2)
+- **GitHub:** [GitHub Repository](<https://github.com/yourusername/project2>)
 </td>
 </tr>
 </table>
