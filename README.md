@@ -21,7 +21,7 @@
 - 💻 Data Science & ML   
 - 🌍 Nigeria  
 
-**Contact**
+**Contact**<br>
 - **Email:** [maabdrushd@gmail.com](mailto:maabdrushd@gmail.com)  
 - **LinkedIn:** https://linkedin.com/in/yourprofile  
 - **Portfolio:** https://Maabd20.github.io  
