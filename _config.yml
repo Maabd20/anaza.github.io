@@ -1,1 +1,5 @@
+theme: dark
+border_radius: 10
+hide_title: false
+show_icons: true
 
