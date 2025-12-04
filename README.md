@@ -1,1 +1,1 @@
-[GitHub Repository](<Diabetes Prediction.ipynb>)
+[GitHub Repository](Diabetes Prediction.ipynb)
