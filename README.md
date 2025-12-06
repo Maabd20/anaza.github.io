@@ -56,7 +56,7 @@ Welcome to my GitHub profile! I’m passionate about **medical research**, **bio
 * ### Pension types predicting model <br>
 <img width="550" height="300" alt="burnout-forecasting-Ai" src="https://github.com/user-attachments/assets/b99909c8-c463-42b9-b043-3799d2b98b29"/> <br>
    <small><i>Predicts insurance premiums from customer and risk features using ML regressors (Linear Regression, KNN, Random Forest); evaluated with RMSE and R².</i></small> <br>
-   [Real and Fake News Prediction](https://github.com/Maabd20/Maabd20.github.io/commit/87bfcbbae44d07d3cc1d33869c315db02cdb861d#diff-0619c7d9700cb323121383bd8365d327846b61493f5b400b730e09e753dece6f)
+   [Premium Pension Predicting](https://github.com/Maabd20/Maabd20.github.io/commit/87bfcbbae44d07d3cc1d33869c315db02cdb861d#diff-0619c7d9700cb323121383bd8365d327846b61493f5b400b730e09e753dece6f)
 
 
 ---
