@@ -44,6 +44,7 @@ Welcome to my GitHub profile! I’m passionate about **medical research**, **bio
 <img width="550" height="300" alt="burnout-forecasting-Ai" src="https://github.com/user-attachments/assets/b28be9f0-046d-45b8-aee3-04bb80b830cc"/> <br>
 
    <small><i>This model is about Fake News Detection that uses natural language processing (NLP) and machine learning to classify news articles as either genuine or misleading. The model analyzes linguistic patterns, text structure, and key features to accurately differentiate real news from fake content. This project highlights the role of data science in combating misinformation and improving the reliability of information consumed online.</i></small> <br>
+   [Real and Fake News Prediction(https://github.com/Maabd20/Maabd20.github.io/commit/87bfcbbae44d07d3cc1d33869c315db02cdb861d#diff-762a2a73b964c49f8fe75967fcb0081358c1688a2c4ac3ee4a80478f5cd82265)
    
 
 
