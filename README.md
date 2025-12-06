@@ -35,11 +35,8 @@ Welcome to my GitHub profile! I’m passionate about **medical research**, **bio
 [Link to Data Set](https://github.com/Maabd20/Maabd20.github.io/commit/5c278477a01ca85554d9bb4f19e1fbd5d401af51#diff-8addda74681f1cda89319ec2e9e80a7f3f56c6c5d3c1c05fa819dd0e1e84db52)
 
 * ### Annual Leave Prediction Model
-  <small><i>This project focuses on building a machine learning model to predict the likelihood of diabetes using clinical and lifestyle-related data. The model applies data preprocessing, feature engineering, and supervised learning algorithms to identify key factors associated with diabetes risk. By training and evaluating multiple classifiers, the project aims to provide a reliable, data-driven tool that can support early detection and improve clinical decision-making. The repository includes code for data cleaning, exploratory analysis, model training, performance evaluation, and visualization of results.</i></small> <br>
+  <small>this model is about Stress Prediction, it  uses machine learning to analyze employee data and predict the likelihood of stress levels and future leave requests. The model identifies key patterns that influence workplace stress and provides early warnings to support better workforce planning. This project demonstrates practical application of data science in employee wellbeing, helping organizations make proactive, data-driven decisions.<i></i></small> <br>
 [Link to Data Set2](https://github.com/Maabd20/Maabd20.github.io/blob/main/annual%20leave%20prediction.ipynb)
-* **Patient-Data-Analysis** — Exploratory data analysis and visualization for clinical datasets.
-* **lab-automation-scripts** — Small Python utilities for lab data processing.
-* **bioinf-basics** — Beginner-friendly bioinformatics notebooks.
 
 ---
 
