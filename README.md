@@ -10,8 +10,8 @@ Welcome to my GitHub profile! I’m passionate about **medical research**, **bio
 ## 🚀 What I Do
 
 * 🖥️ Building Machine Learning Model
-* * 🤖 Exploring Machine Learning for health & research applications
-* 📊 Analysing Data Dashboarding, Reporting & Insights
+* 🤖 Exploring Machine Learning for health & research applications
+* 📊 Analysing Data, Dashboarding, Reporting & Insights
 
 ---
 
